@@ -1,4 +1,4 @@
-# playwright-proof-of-concept
+# Playwright Proof of Concept
 Proof of concept for an integrated system with both UI and API checks
 
 This is an anonymised version of a segment of a system I designed in the past
